@@ -9,9 +9,7 @@ namespace MyDictionary
             MyDictionary<int> match = new MyDictionary<int>();
             Console.WriteLine(match.Count);
             match.Add(30);
-            match.Add(30);
-            match.Add(30);
-            match.Add(30);
+            
 
 
             Console.WriteLine(match.Count);
